@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jesus-Garcia-Montalvo</h1>
-<h3 align="center">Soy un joven altamente motivado y apasionado por la programación, siempre en busca de aprender nuevas tecnologías y explorar diferentes áreas del desarrollo. Mi aspiración es colaborar con empresas o compañías donde pueda tener la oportunidad de contribuir en diversos proyectos y brindar lo mejor de mí. Mi enfoque está en abrazar nuevos retos que me permitan mejorar constantemente mis conocimientos y en los que pueda crecer profesionalmente.India</h3>
+<h3 align="center">Soy un joven altamente motivado y apasionado por la programación, siempre en busca de aprender nuevas tecnologías y explorar diferentes áreas del desarrollo. Mi aspiración es colaborar con empresas o compañías donde pueda tener la oportunidad de contribuir en diversos proyectos y brindar lo mejor de mí. Mi enfoque está en abrazar nuevos retos que me permitan mejorar constantemente mis conocimientos y en los que pueda crecer profesionalmente</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
