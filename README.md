@@ -15,12 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jesus-Garcia-Montalvo</h1>
-<h2 align="start"> :man_technologist: About Me :</h2>
+
+<h2 align="left">  :man_technologist: About Me : </h2>
+
+```javascript
+const aboutMe = {
+  iAm: "Frontend web development",
+  technologiesAndTools: ["React", "JavaScript", "php", "java", "HTML", "CSS", "SASS", "Bootstrap", "Figma"],
+  currently: "Learning React",
+  personalQualities: "I consider myself highly creative, assertive communication and empathy. I believe in collaborative work and that I can learn easily."
+};
+```
+
+- 🌱 I’m currently learning frontend development at <a href="https://makaia.org/">MAKAIA</a> corporation
+- 📫 How to reach me **jesus.antonio.garcia9871@gmail.com**
+- 💬 Ask me about all frontend related topics
 
 
 
+
+ 
 
 <h3 align="left">- 📫 Connect with me:</h3>
+
 <a href="www.linkedin.com/in/jesus-antonio-garcia-montalvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "jesus.antonio.garcia9871@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
