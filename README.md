@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jesus-Garcia-Montalvo</h1>
-<h1 align="start"> :man_technologist: About Me :</h1>
+<h2 align="start"> :man_technologist: About Me :</h2>
 
 
 
