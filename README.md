@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jesus-Garcia-Montalvo</h1>
+<h1 align="start"> :man_technologist: About Me :</h1>
+
+
 
 
 <h3 align="left">- 📫 Connect with me:</h3>
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> 
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
