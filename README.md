@@ -23,7 +23,7 @@ const aboutMe = {
   iAm: "Frontend web development",
   technologiesAndTools: ["React", "JavaScript", "php", "java", "HTML", "CSS", "SASS", "Bootstrap", "Figma"],
   currently: "Learning React",
-  personalQualities: "I consider myself highly creative, assertive communication and empathy. I believe in collaborative work and that I can learn easily."
+  personalQualities: "I stand out for my creativity, assertive communication and empathy. I believe in collaborative work and enjoy every opportunity to learn and acquire new knowledge."
 };
 ```
 
