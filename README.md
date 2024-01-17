@@ -53,3 +53,5 @@ const aboutMe = {
   </a>
 </p>
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesus-Garcia-Montalvo)
