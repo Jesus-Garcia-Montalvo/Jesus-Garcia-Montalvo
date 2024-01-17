@@ -36,7 +36,7 @@ const aboutMe = {
 
  
 
-<h3 align="left">- 📫 Connect with me:</h3>
+<h2 align="left">- 📫 Connect with me:</h2>
 
 <a href="www.linkedin.com/in/jesus-antonio-garcia-montalvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "jesus.antonio.garcia9871@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -53,5 +53,7 @@ const aboutMe = {
   </a>
 </p>
 <hr>
+
+<h2 align="left">- 📈 My Stats :</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesus-Garcia-Montalvo)
