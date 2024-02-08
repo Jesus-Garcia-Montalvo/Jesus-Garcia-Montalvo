@@ -49,7 +49,7 @@ const aboutMe = {
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,javascript,css,html,redux,react" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,java,php,mysql,babel,webpack,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=firebase,java,php,mysql,babel,webpack,vscode,github,figma,nodejs" />
 
   </a>
 </p>
